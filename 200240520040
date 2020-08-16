@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>2</title>
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+    <script src="https://fontawesome.com/"></script>
+
+
+</head>
+<body>
+    <div class="container-fluid">
+
+     <div class="rowbgscondary d-flex sticky-top" style="height: 60px;"></div>
+     <div class="col-10 bg-primary d-flex " style="align-items: center;">home</div>
+    <div class="col-2 bg-primary d-flex " style="align-items: center;">logout</div>
+    
+    
+</div>
+<div class="row mt-1">
+    <div class="col-3 " style="height: 65vh; background-color:crimson;"></div>
+
+       <div class="col-6 bg-success rounded " style="height: 35vh;">CPP</div>
+
+        <div class="col-3" style="height: 65vh;"></div>
+</div>
+    
+
+</div>
+<div class="row mt-1">
+    <div class="col-3 " style="height: 35vh;"></div>
+
+       <div class="col-6 bg-success rounded " style="height: 35vh; background-color:black;">DBT</div>
+
+        <div class="col-3" style="height: 35vh;"></div>
+</div>
+    
+</div>
+<div class="row mt-1">
+    <div class="col-3 " style="height: 35vh;"></div>
+
+       <div class="col-6 bg-success rounded " style="height: 35vh; background-color:red;">awp</div>
+
+        <div class="col-3" style="height: 35vh;"></div>
+</div>
+</div>
+<div class="row mt-1">
+    <div class="col-3 " style="height: 35vh;"></div>
+
+       <div class="col-6 bg-success rounded " style="height: 35vh; background-color: coral;">MEANSTACK</div>
+
+        <div class="col-3" style="height: 35vh;"></div>
+</div>
+<div>
+  <div class="row bg-secondary d-flex sticky-top" 
+  style="height: 62px;"></div>
+
+       <div class="col11 bg-primary d-flex" style="align-items:center;"> ABOUTUS</div>
+
+</div>
+    
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+2)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>que1</title>
+    <style>
+        html,
+        body{
+            margin: 0px;
+        }
+    </style>
+</head>
+<body>
+<div style="background-color: powderblue; 
+   height: 100vh;
+   display:flex;
+   justify-content: center;  
+   align-items: center; 
+   ">
+
+   <div style="background-color: blue; 
+   height: 35vh;
+   width: 35vw;
+   display:flex;
+    justify-content: center;  
+    text-align: center; ">
+    </div>
+
+      <form 
+
+
+
+
+</body>
+</html>
